@@ -2,6 +2,7 @@
 
 A clean, modern, and responsive weather app built with **React + Vite** and **CSS**, showing current conditions and a 5‑day forecast.
 
+Visit here https://syntecxhub-weather-app.vercel.app/
 ---
 
 ## ✨ Features
